@@ -1,22 +1,13 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+### Who am I?
+Tango dancer, casual player of Magic: The Gathering, and amateur musician in permanent training. Fan of good food and of everything chocolate. In an eternal quest to become a gyroscope (i.e. as balanced a person as possible).
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+### Professional Summary
+Exceptionally adaptive professional with 8 years of experience in the IT industry (infrastructure and application development) looking for an environment that provides continuous challenges and intellectual stimulation. Experience as a technical leader, infrastructure consultant, full-stack software developer and architect, and business analyst. Quick and thorough self-learner with excellent problem solving skills and technical acumen. Proactive and result-oriented. Capable team leader and mentor. Hands-on experience with all stages of application lifecycle management and many facets of the underlying infrastructure, with focus on cloud solutions.
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+### Professional Experience
+#### Consultant at Definity First
+CLIENT: TEST OCT 2016 – PRESENT
+Subject Matter Expert for Active Directory. Support the implementation of security settings on 130+ Domain Controllers in several forests through GPO. Research and evaluate potential impact on all applications in the environment (600+), support application validation testing, determine workarounds. Coordinate with multiple teams identifying application dependencies to ensure successful restore in the DR environment.
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
-
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
-
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+### Other resources
+My github profile: @alexvy86.
