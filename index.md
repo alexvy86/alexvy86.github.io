@@ -7,6 +7,7 @@ Exceptionally adaptive professional with 8 years of experience in the IT industr
 ### Professional Experience
 #### Consultant at Definity First
 CLIENT: TEST OCT 2016 – PRESENT
+
 Subject Matter Expert for Active Directory. Support the implementation of security settings on 130+ Domain Controllers in several forests through GPO. Research and evaluate potential impact on all applications in the environment (600+), support application validation testing, determine workarounds. Coordinate with multiple teams identifying application dependencies to ensure successful restore in the DR environment.
 
 ### Other resources
